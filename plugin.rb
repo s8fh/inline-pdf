@@ -1,10 +1,8 @@
 # frozen_string_literal: true
-
-# name: discourse-send-pdf-inline
-# about: serve all PDFs inline
-# version: 0.1
-# authors: Thomas Kalka (toka)
-# url: https://github.com/thoka/discourse-send-pdf-inline
+# name: inline-pdf
+# about: Formats and displays PDFs in-line
+# version: 1.0.0
+# authors: Discourse
 
 module SendPdfInline
   module UploadsControllerExtension
